@@ -1,0 +1,24 @@
+CACHE MANIFEST
+# 2015-11-06
+
+CACHE:
+index.html
+css/app.css
+css/jquery.simple-dtpicker.css
+css/normalize.css
+css/skeleton.css
+images/avi.png
+js/app.js
+js/jquery-2.1.3.min.js
+js/backbone-min.js
+js/underscore-min.js
+js/backbone.dualstorage.js
+js/moment.min.js
+js/jquery.simple-dtpicker.js
+
+# Resources that require the user to be online.
+NETWORK:
+*
+
+FALLBACK:
+/timeline /
